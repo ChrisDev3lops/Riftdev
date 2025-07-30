@@ -1,17 +1,26 @@
-Hi Im Rift a guy from the US thats really it lol I know after effetcs and photoshop and and learning c# and Javascript and maybe ts
+# Welcome to My Profile! ⚾👋
 
- 
+Hi! I'm a 13-year-old coder from the USA who loves playing baseball and building cool stuff with code.  
+I work with **C#**, **JavaScript**, and **HTML** — always learning and trying new things!
 
-Im learning
+## About Me
+- 🏀 I play baseball and love sports!
+- 💻 I enjoy coding projects and learning new languages.
+- 🌎 Based in the USA.
 
+## Tech Skills
+- **Languages:** C#, JavaScript, HTML
+- **Interests:** Web development, simple games, sports stats, and more
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,ts,theme=light)](https://skillicons.dev)
+## Projects
+Here are some ideas I like working on:
+- A baseball stats tracker
+- Simple web games
+- Interactive websites
 
+## Let's Connect!
+Feel free to check out my projects or reach out if you want to collaborate or chat about coding or baseball!
 
-My Skils 
+---
 
-
-[![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,theme=light)](https://skillicons.dev)
-
-
-
+Thanks for visiting my profile! 🚀
