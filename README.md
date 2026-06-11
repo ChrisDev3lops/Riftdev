@@ -1,26 +1,40 @@
-# Welcome to My Profile! ⚾👋
+# Welcome to My Profile
 
-Hi! I'm a 13-year-old coder from the USA who loves playing baseball and building cool stuff with code.  
-I work with **C#**, **JavaScript**, and **HTML** — always learning and trying new things!
+Hi! I'm a 13-year-old developer from the USA who enjoys building software and learning new technologies.
+
+I focus on **C++**, **TypeScript**, **Next.js**, and **Tauri**, with a strong interest in OGFN projects and creating tools/apps.
 
 ## About Me
-- 🏀 I play baseball and love sports!
-- 💻 I enjoy coding projects and learning new languages.
-- 🌎 Based in the USA.
 
-## Tech Skills
-- **Languages:** C#, JavaScript, HTML
-- **Interests:** Web development, simple games, sports stats, and more
+- Developer focused on learning and improving every day
+- Interested in game-related projects and desktop applications
+- Enjoy building modern apps and experimenting with new ideas
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,ts,js,html,css,react,nextjs,tauri,cs,git,vscode" />
+</p>
+
+## Interests
+
+- OGFN projects
+- C++ development
+- Game tools and applications
+- Desktop apps with Tauri
+- Web apps with Next.js
+- UI/UX and modern frontend development
 
 ## Projects
-Here are some ideas I like working on:
-- A baseball stats tracker
-- Simple web games
-- Interactive websites
 
-## Let's Connect!
-Feel free to check out my projects or reach out if you want to collaborate or chat about coding or baseball!
+Some things I enjoy making:
 
----
+- OGFN-related projects
+- Custom launchers and applications
+- Tauri desktop apps
+- Next.js websites
+- Developer tools
 
-Thanks for visiting my profile! 🚀
+## Contact
+
+Feel free to check out my projects or reach out if you want to talk about coding.
