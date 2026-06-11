@@ -13,7 +13,7 @@ I focus on **C++**, **TypeScript**, **Next.js**, and **Tauri**, with a strong in
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,ts,js,html,css,react,nextjs,tauri,cs,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,ts,js,nextjs,tauri,vscode" />
 </p>
 
 ## Interests
