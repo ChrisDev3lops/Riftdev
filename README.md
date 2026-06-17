@@ -1,8 +1,10 @@
 # Welcome to My Profile
 
-Hi! I'm a 13-year-old developer from the USA who enjoys building software and learning new technologies.
+![Discord](https://lanyard.cnrad.dev/api/1419409155239706694)
 
-I focus on **C++**, **TypeScript**, **Next.js**, and **Tauri**, with a strong interest in OGFN projects and creating tools/apps.
+Hi! I'm C or also know as Chris a 14-year-old developer from the USA who enjoys building software and learning new things.
+
+I focus on **C++**, **TypeScript With Tauri Framework**, **Next.js** , with a strong interest in OGFN projects and creating tools/apps.
 
 ## About Me
 
